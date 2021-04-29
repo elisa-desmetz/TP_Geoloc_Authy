@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP_Geoloc_Authy</string>
+    <string name="save_location_to_firestore">save location to firestore</string>
+    <string name="locations_list">Locations list</string>
+    <string name="delete_button">Delete_button</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+</resources>
